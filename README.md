@@ -8,6 +8,7 @@
 
 
 **请用安卓手机QQ扫一扫下载**
+
 ![](image/star-zone-download.png)
 <br/>
 
